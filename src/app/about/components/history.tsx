@@ -34,10 +34,10 @@ const History = () => {
           <p>
             Dengan permintaan lingkungan sekitar, di tahun 2013,{" "}
             <b>Venanda Bakery</b> membuka <b>Baking Class</b> untuk kalangan
-            umum. Venanda Baking Class adalah kelas bidang
-            Roti-Cake-Pastry-Cookies yang sudah mencetak ribuan orang dan
-            Alhamdulillah sudah menjadi pengusaha roti di Kudus, Pati, Jepara,
-            Demak, Semarang, Purwodadi, Rembang, Lasem, Tuban, dan Kuwait.
+            umum. Venanda Baking Class adalah kelas bidang Roti, Cake, Cookies,
+            dan Pastry yang sudah mencetak ribuan orang dan Alhamdulillah sudah
+            menjadi pengusaha roti di Kudus, Pati, Jepara, Demak, Semarang,
+            Purwodadi, Rembang, Lasem, Tuban, dan Kuwait.
           </p>
           <br />
           <p>
